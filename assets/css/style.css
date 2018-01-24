@@ -190,6 +190,20 @@ ul{
 
 }
 
+#simpsons{
+
+	position: absolute;
+	top: 584px;
+	left: 483px;
+	padding: 3px;
+	margin: 9px;
+	width: 195px;
+	color: white;
+	background-color: #4aaaa5;
+	text-align: center;
+
+}
+
 @media screen and (max-width: 980px) and (min-width: 769px){
 
 	header{
