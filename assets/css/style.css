@@ -247,6 +247,28 @@ ul{
 	left: 700px;
 }
 
+#burger{
+
+	position: absolute;
+	top: 612px;
+	left: 700px;
+	padding: 3px;
+	margin: 9px;
+	width: 195px;
+	color: white;
+	background-color: #4aaaa5;
+	text-align: center;
+
+}
+
+#burger{
+
+	position: absolute;
+	top: 450px;
+	left: 700px;
+}
+
+
 @media screen and (max-width: 980px) and (min-width: 769px){
 
 	header{
