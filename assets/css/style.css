@@ -67,7 +67,7 @@ div{
 	background-color: #ffffff;
 	border: 1px solid #dddddd;
 	width: 650px;
-	height: 800px;
+	height: 750px;
 	padding: 20px;
 
 }
@@ -79,7 +79,7 @@ section{
 	background-color: #ffffff;
 	border: 1px solid #dddddd;
 	width: 650px;
-	height: 650px;
+	height: 570px;
 	padding: 20px;
 }
 
@@ -262,8 +262,8 @@ ul{
 #burger{
 
 	position: absolute;
-	top: 612px;
-	left: 700px;
+	top: 822px;
+	left: 253px;
 	padding: 3px;
 	margin: 9px;
 	width: 195px;
@@ -273,11 +273,11 @@ ul{
 
 }
 
-#burger{
+#burgerpic{
 
 	position: absolute;
-	top: 450px;
-	left: 700px;
+	top: 665px;
+	left: 253px;
 }
 
 
