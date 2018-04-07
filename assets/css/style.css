@@ -207,7 +207,7 @@ ul{
 #simpsons{
 
 	position: absolute;
-	top: 584px;
+	top: 373px;
 	left: 483px;
 	padding: 3px;
 	margin: 9px;
@@ -239,7 +239,7 @@ ul{
 	left: 700px;
 }
 
-#friendfinder{
+/*#friendfinder{
 
 	position: absolute;
 	top: 612px;
@@ -251,19 +251,19 @@ ul{
 	background-color: #4aaaa5;
 	text-align: center;
 
-}
+}*/
 
-#friendfinderpic{
+/*#friendfinderpic{
 
 	position: absolute;
 	top: 450px;
 	left: 700px;
-}
+}*/
 
 #burger{
 
 	position: absolute;
-	top: 822px;
+	top: 624px;
 	left: 253px;
 	padding: 3px;
 	margin: 9px;
@@ -277,11 +277,11 @@ ul{
 #burgerpic{
 
 	position: absolute;
-	top: 665px;
+	top: 465px;
 	left: 253px;
 }
 
-#burger2{
+/*#burger2{
 
 	position: absolute;
 	top: 795px;
@@ -300,13 +300,13 @@ ul{
 	position: absolute;
 	top: 665px;
 	left: 483px;
-}
+}*/
 
 #siscraper{
 
 	position: absolute;
-	top: 822px;
-	left: 700px;
+	top: 624px;
+	left: 483px;
 	padding: 3px;
 	margin: 9px;
 	width: 195px;
@@ -319,8 +319,8 @@ ul{
 #scraper{
 
 	position: absolute;
-	top: 665px;
-	left: 700px;
+	top: 465px;
+	left: 483px;
 
 }
 
