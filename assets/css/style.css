@@ -1,20 +1,43 @@
+* {
+
+	font-family: 'Tangerine', cursive;
+}
+
 header{
 
 	background-color: #ffffff;
 	border:1px solid #cccccc;
 	padding: 1px;
+
+}
+
+#contact {
+
+	font-size: 25px;
+}
+
+input {
+
+	font-size: 20px;
+}
+
+textarea {
+
+	font-size: 20px;
 }
 
 .header{
 
-	font-family: "Georgia", Times New Roman, serif;
+	font-family: 'Tangerine', cursive;
+	font-size: 45px;
+	/*font-family: "Georgia", Times New Roman, serif;*/
 	background-color: #4aaaa5;
 	color: white;
 	width: 225px;
 	text-align: center;
 	margin: 0px;
-	margin-left: 230px;
-	padding: 5px;
+	margin-left: 240px;
+	padding: 16px;
 }
 
 .header2{
@@ -23,6 +46,7 @@ header{
 	color: #4aaaa5;
 	border-bottom: solid #777777;
 	padding: 20px;
+
 }
 
 nav{
@@ -33,6 +57,7 @@ nav{
 	top: 30px;
 	right: 215px;
 	font-family: "Arial", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 30px;
 }
 
 img{
@@ -88,6 +113,9 @@ section{
 	
 	font-weight: bold;
 	line-height: 200%;
+	/*font-family: 'Cookie', cursive;*/
+	font-family: 'Tangerine', cursive;
+	font-size: 22.2px;
 }
 
 aside{
@@ -99,24 +127,35 @@ aside{
 	height: 200px;
 	float: right;
 	position: absolute;
-	top: 115px;
+	top: 110px;
 	right: 200px;
 	margin-left: 35px;
 
 }
 
+#me{
+padding: 3px;
+text-align: left;
+font-size: 40px;
+
+}
+
 .header2{
 
-	text-align: left;
+	font-size: 40px;
+	font-family: 'Tangerine', cursive;
+	text-align: center;
+	/*font-size: 40px;*/
+	padding: 1px;
 }
 
 footer{
 
-
+	font-size: 25px;
 	position: static;
 	text-align: center;
 	background-color: #666666;
-	padding: 25px;
+	padding: 1px;
 	margin-bottom: 0px;
 	color: white;
 	margin-top: 10px;
